@@ -34,10 +34,7 @@ Status: Actively Building Real-World DevOps Systems<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharbhuvad&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/niharbhuvad9" target="blank"><img src="https://img.shields.io/twitter/follow/niharbhuvad9?logo=twitter&style=for-the-badge" alt="niharbhuvad9" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-</p>
+
