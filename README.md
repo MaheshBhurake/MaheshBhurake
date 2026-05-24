@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Enthusiast;CI%2FCD+Pipeline+Architect;Infrastructure+as+Code+Advocate;Automation+First+Mindset" /> </p>
 
 Name: Mahesh Bhurake<br>
-Role: DevOps Engineer<br>
+Role: Linux & DevOps Administration <br>
 Mindset: Automation | Scalability | Reliability<br>
 Focus: Cloud Infrastructure & CI/CD Engineering<br>
 Status: Actively Building Real-World DevOps Systems<br>
